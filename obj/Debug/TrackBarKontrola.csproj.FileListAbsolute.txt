@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\bin\Debug\TrackBarKontrola.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\bin\Debug\TrackBarKontrola.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\bin\Debug\TrackBarKontrola.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\TrackBarKontrola\obj\Debug\TrackBarKontrola.pdb
